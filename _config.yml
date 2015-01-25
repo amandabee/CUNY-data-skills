@@ -1,0 +1,30 @@
+# This is the default format. 
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:categories/:title.html 
+
+exclude: ["todo.md"]
+highlighter: pygments
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : Data Skills 
+tagline: Social Journalism, Spring 2015 
+
+author :
+  name    : Amanda Hickman
+  email   : amanda.hickman@journalism.cuny.edu
+  github  : amandabee
+  twitter : amandabee
+course :   
+  semester: Spring 2015
+  title   : Social Journalism Data Skills 
+
+JB :
+  version : 0.3.0
+
+BASE_PATH : /CUNY-data-skills
+ASSET_PATH : /CUNY-data-skills/assets
+
+baseurl : /CUNY-data-skills
+ 
