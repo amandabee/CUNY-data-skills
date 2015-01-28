@@ -43,9 +43,9 @@ theme :
           <header>
           <h1>{{ site.title }}</h1>
           <p>{{ site.tagline}}</p>
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-          {% include assignments %}
+		{% assign pages_list = site.pages %}
+		{% assign group = 'navigation' %}
+		{% include post_lists %}
           
           <p><a href="{{ site.baseurl }}/">Syllabus</a></p>
           </header>

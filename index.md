@@ -19,45 +19,47 @@ We'll use Excel (or LibreOffice's Calc) and some command-line tools like CSVkit 
 
 Note: this class will go deep on some data analysis tools, such as spreadsheets, that students will be expected to master. We will aslo introduce more complex advanced tools that students won't master in a semester. 
 
-## SYLLABUS in BRIEF<a id="syllabus" /></a>
+## SYLLABUS in BRIEF
 
 Lecture: what you can expect from me | Homework: what I expect from you    |
 ---|---|
-**01**: Finding and defining data, Context   | Readings                             | 
-**02**: Visual Encoding, CSVs, Pivot Tables  | Pre-pitches -- data you're interested in            |
-**03**: Cleaning data with OpenRefine, FTP   | Spreadsheet exercise, <br />Pitch (community profile)   |
-**04**: Mapping                              | Data cleaning exercise               |
-**05**: Finding patterns with maps           | Map exercise, <br />Storyboard (community profile)  |
-**06**: Charts, Visual Encoding              | Map exercise 2, <br /> Pitch (data driven story)   |
-**07**: Presentation, Navigation, Bootstrap  | Chart exercise                  |
-**08**: Completeness, Advanced Chart Layout  | Chart exercise 2, <br />Storyboard (data driven story)|
-**09**: Building forms, Writing surveys      | Rough Draft (community profile)      |
-**10**: Community Study critique             | Survey exercise, Final  (community profile)  |
-**11**: Command line tools, CSVkit           | Revised survey exercise, install CSVkit              |
-**12**: Show your work, publishing numbers   | Rough Draft (data driven story)      |
-**13**: Hands on TBD                         | CSVkit Excercise, Final (data driven story)  |
-**14**: Data Driven Crit, Hands on TBD       | Revisions Community Study            |
-**15**: Wrap Up                              | Revisions Data Driven                |
+**Jan 28**: Finding and defining data, Context   | Readings                             | 
+**Feb 04**: Visual Encoding, CSVs, Pivot Tables  | Pre-pitches -- data you're interested in            |
+**Feb 11**: Cleaning data with OpenRefine, FTP   | Spreadsheet exercise, <br />Pitch (community profile)   |
+**Feb 18:** Monday Schedule | |
+**Feb 25**: Mapping                              | Data cleaning exercise               |
+**Mar 04**: Finding patterns with maps           | Map exercise, <br />Storyboard (community profile)  |
+**Mar 11**: Charts, Visual Encoding              | Map exercise 2, <br /> Pitch (data driven story)   |
+**Mar 18**: Presentation, Navigation, Bootstrap  | Chart exercise                  |
+**Mar 25**: Completeness, Advanced Chart Layout  | Chart exercise 2, <br />Storyboard (data driven story)|
+**Apr 01**: Building forms, Writing surveys      | Rough Draft (community profile)      |
+**Apr 08**: Spring Break |  |
+**Apr 15**: Community Study critique             | Survey exercise, Final  (community profile)  |
+**Apr 22**: Command line tools, CSVkit           | Revised survey exercise, install CSVkit              |
+**Apr 29**: Show your work, publishing numbers   | Rough Draft (data driven story)      |
+**May 06**: Hands on TBD                         | CSVkit Excercise, Final (data driven story)  |
+**May 13**: Data Driven Crit, Hands on TBD       | Revisions Community Study            |
+**May 20**: Wrap Up                              | Revisions Data Driven                |
 
 
 **Course outcomes**  
 This semester you'll learn to:
 
-*   Compose forms that gather the data you need from respondents
-*   Work with data from a variety of sources for use in reporting
-*   Identify new data sources to help you understand your own audience better
-*   Understand the context of the numbers you're working with.
-*   Edit and organize data while maintaining its integrity
-*   Use basic statistical methods to summarize data
-*   Recongize and evaluate patterns in data
-*   Write basic SQL queries
-*   Use basic regular expressions for more powerful searches
-*   Design clean, compelling data visualizations 
-*   Apply the fundamentals of effective visual communication to data driven-presentation
-*   Identify the elements that make a particular data driven project successful
-*   Skim technical instructions for examples you can use
-*   Ask for help when technology challenges you and the manual is too dense
-*   Prepare for and adapt to an ever-changing landscape of software tools
++ Compose forms that gather the data you need from respondents.
++ Work with data from a variety of sources for use in reporting.
++ Identify new data sources to help you understand your own audience better.
++ Understand the context of the numbers you're working with.
++ Edit and organize data while maintaining its integrity.
++ Use basic statistical methods to summarize data.
++ Recongize and evaluate patterns in data.
++ Write basic SQL queries.
++ Use basic regular expressions for more powerful searches.
++ Design clean, compelling data visualizations.
++ Apply the fundamentals of effective visual communication to data driven-presentation.
++ Identify the elements that make a particular data driven project successful.
++ Skim technical instructions for examples you can use.
++ Ask for help when technology challenges you and the manual is too dense.
++ Prepare for and adapt to an ever-changing landscape of software tools.
 
 The skills we build in this course will be as applicable to reporting as they are to the work of interpreting signals from your audience. 
 
@@ -125,7 +127,7 @@ Please be on time for class and back to class from breaks.
 
  This means that if you complete a brilliant story or profile but don't put real effort into your pitch or rough draft, you can't get better than a C on the story.
 
- **Pitches:**<a id="pitch" /></a> A complete pitch should tell us who cares, why we care now, and what pre-reporting you’ve done. You must include:
+ **Pitches:** A complete pitch should tell us who cares, why we care now, and what pre-reporting you’ve done. <a id="pitch"></a>You must include:
 
  + a proposed title or headline  
  + a story slug -- up to three words that capture the essence of your story
@@ -135,11 +137,11 @@ Please be on time for class and back to class from breaks.
  + For your reporting piece: one source you have already spoken with or at least three potential expert sources and your plans for reaching them
  + For your community profile: propose at least ten data points you'd like to work with and explain why each is relevant.
 
- **Storyboards:** <a id="storyboard" /></a> A storyboard organizes your content conceptually and spatially. This semester, when you turn in storyboards, you should also include a revised pitch and a proposed nut graf. Your nut graf will change your story develops, but it should capture all of the main elements of your story. 
+ **Storyboards:** <a id="storyboard"></a> A storyboard organizes your content conceptually and spatially. This semester, when you turn in storyboards, you should also include a revised pitch and a proposed nut graf. Your nut graf will change your story develops, but it should capture all of the main elements of your story. 
 
  We use wireframe and storyboards interchangeably here. We’re looking for a simple sketch (on paper, in Word, or PowerPoint, Illustrator, or any number of online storyboarding tools) that shows us how you intend to integrate your visualizations, words, and navigation elements. Use simple boxes to tell us where your different elements will be positioned in a design, and how a user will navigate through the content. Check out [Mark Luckie’s thoughts on sketching/storyboarding](http://www.mediabistro.com/10000words/the-importance-of-sketching-and-why-you-should-be-doing-it_b837), with examples, from 10,000 Words. 
 
- **Rough Drafts:** <a id="roughdraft" /></a> A rough draft does not have to have the polish of a final project, but it should be close. You should have created the visualizations that you plan to use. Your classmates should be able to evaluate a rough draft on its merits, without a guided tour of forthcoming features. A complete rough draft includes: 
+ **Rough Drafts:** <a id="roughdraft"></a> A rough draft does not have to have the polish of a final project, but it should be close. You should have created the visualizations that you plan to use. Your classmates should be able to evaluate a rough draft on its merits, without a guided tour of forthcoming features. A complete rough draft includes: 
 
  + Clean data in spreadsheets, already normalized, sorted, manipulated  
  + Visualizations of the data with labeled axes  
@@ -151,7 +153,7 @@ Please be on time for class and back to class from breaks.
  + For your reporting piece: A source list
 
 
- **Final Story:** <a id="finalstory" /></a>Your story must be uploaded to digital storage. Post an excerpt and a link to the class blog.  
+ **Final Story:** <a id="finalstory"></a>Your story must be uploaded to digital storage. Post an excerpt and a link to the class blog.  
 
  ## Plagiarism and Copyright
 
@@ -169,7 +171,7 @@ Please be on time for class and back to class from breaks.
 
  When in doubt: ask.   
 
- # SYLLABUS in DETAIL <a id="detail" /></a>
+ # SYLLABUS in DETAIL <a id="detail"></a>
 
  **Festival of Data:** Every week one student will choose a data driven story to present in class. Prepare to discuss the strengths and weaknesses of the story, the authors’ use of data as well as their use of interactivity, and to identify the underlying technology. Blog your story in the "Festival of Data" category by 5 PM on your week.
 
@@ -182,7 +184,7 @@ Please be on time for class and back to class from breaks.
  *Due Week 01:*  <!--deets-->
  Read: [Searches for "sundown" on Yom Kippur](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/13/this-is-an-awesome-chart-about-yom-kippur-really/), [Homicide Watch intervew](http://contentsmagazine.com/articles/homicide-watch-an-interview/), [Homicide Watch on Search Queries](http://www.poynter.org/latest-news/mediawire/149294/homicide-watch-d-c-uses-clues-in-site-search-queries-to-id-homicide-victim/)
 
- ### 1 | Week 01: Defining and Finding Data  
+ ### Jan 28 | Week 01: Defining and Finding Data  
  Discussion: Welcome and Expectations  
  What is data, what are data stories? 
  How does data provide context? What can't data answer?
@@ -199,7 +201,7 @@ Please be on time for class and back to class from breaks.
 
  Read [The Perils of Polling Twitter](https://source.opennews.org/en-US/learning/perils-polling-twitter/)
 
- ### 2 | Week 02: Visual Encoding, CSVs, Pivot Tables  
+ ### Feb 04 | Week 02: Visual Encoding, CSVs, Pivot Tables  
  Discuss homework: Problems, challenges, solutions  
  Discuss: Visual Encoding, Story expectations  
  Hands-on: Tabula and Pivot Tables    
@@ -207,7 +209,7 @@ Please be on time for class and back to class from breaks.
  *Due Week 03:*  <!--deets-->
  Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) and [Filezilla](https://filezilla-project.org/) are installed on your computer.
 
- ### 3 | Week 03: Cleaning data, SFTP, Pitch  
+ ### Feb 11 | Week 03: Cleaning data, SFTP, Pitch  
  Hands-on: Basic HTML and moving files with SFTP
  Hands-on: Cleaning data with OpenRefine
  Workshop Community Profile pitches: are these the right data points to consider? What else would you wan to know to understand this community? 
@@ -215,7 +217,10 @@ Please be on time for class and back to class from breaks.
  *Due Week 04 :*  <!--deets-->  
  Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
 
- ### 4 | Week 04: Mapping  
+ ### Feb 18
+ No class. CUNY will meet on a Monday schedule.
+
+ ### Feb 25 | Week 04: Mapping  
  Discussion: Asking good questions
  Discussion: Limitations of maps, impact of mapping choices
  Hands-on: CartoDB, PostGIS
@@ -223,7 +228,7 @@ Please be on time for class and back to class from breaks.
  *Due Week 05:*  <!--deets-->
  Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
 
- ### 5 | Week 05: Finding patterns in geospatial data
+ ### Mar 04 | Week 05: Finding patterns in geospatial data
  Discussion: Review Maps, Maps as Research
  Hands-on: Troubleshooting map exercise;
  If we get there: Advanced GIS queries
@@ -232,7 +237,7 @@ Please be on time for class and back to class from breaks.
  Storyboard (Community); Mapping Exercise #2; 
   
 
-  ### 6 | Week 06: Charting, Pitch (Data Driven Story)  
+  ### Mar 11 | Week 06: Charting, Pitch (Data Driven Story)  
   Discussion: Pitches, Visual Encoding
   Hands-on: Making charts
   Workshop Data driven story pitches: is this interesting? Is this the right angle? What would make this story something you'd like to read?
@@ -241,7 +246,7 @@ Please be on time for class and back to class from breaks.
   HighCharts exercise, 
   Read Cairo: The Functional Art, Reading part 3: pages 73-86, on presentation;
 
-  ### 7 | Week 07: Presentation, Navigation  
+  ### Mar 18 | Week 07: Presentation, Navigation  
   Hands-on: Using Bootstrap templates
   Hands-on: Putting a Highcharts function in an HTML page  
 
@@ -249,41 +254,44 @@ Please be on time for class and back to class from breaks.
   Highcharts exercise 2, Storyboard (data driven)
   Read selections from Tufte, Quantitative Display of Information, on e-reserve in the Library: pages 91-105, 176-190.
 
-  ### 8 | Week 08: Completeness, HighCharts API  
+  ### Mar 25 | Week 08: Completeness, HighCharts API  
   Hands-on: Highcharts API
   Hands-on: Redesign exercise
 
   *Due Week 09:*  <!--deets-->
   Rough Draft (community)
 
-  ### 9 | Week 09: Forms and Surveys
+  ### Apr 01 | Week 09: Forms and Surveys
   Discussion: Polls, samples and surveys
   Writing questions people will answer, getting data into and out of a data store
 
   *Due Week 10:*  <!--deets-->
   Final Story (Community), Survey excercise
 
-  ### 10 | Week 10: Community Study Critique
+### April 8
+No class. Spring break.
+
+  ### Apr 15 | Week 10: Community Study Critique
   Workshop: Surveys -- too many questions? Too few? Would you answer these? 
   Workshop: Community Study  
 
   *Due Week 11:*  <!--deets-->
   Revised survey exercise, install CSVkit
 
-  ### 11 | Week 11: CSVkit and Command Line Tools
+  ### Apr 22 | Week 11: CSVkit and Command Line Tools
   Hands-on: Regular Expressions and CSVkit to work with big text files
 
 
   *Due Week 12:*  <!--deets-->
   Rough Draft (data driven story), install MySQL query browser
   -
-  ### 12 | Week 12: Command Line Tools  
+  ### Apr 29 | Week 12: Command Line Tools  
   Hands-on: Regular Expressions and CSVkit
 
   *Due Week 13:* <!--deets-->
   CSVkit exercise, Final story (data driven)
 
-  ### 13 | Week 13: Infographics  
+  ### May 06 | Week 13: Infographics  
   Discussion: infographics for print and web
   Hands on: infographic redesign
 
@@ -291,13 +299,13 @@ Please be on time for class and back to class from breaks.
   Revisions to Community Study
   Infographic exercise
 
-  ### 14 | Week 14: Story 2 crit, Hands on TBD  
+  ### May 13 | Week 14: Story 2 crit, Hands on TBD  
   Hands on: we'll take stock of how much we've learned and either go deeper on a tool you'd like more of, or tackle a new tool.  
 
   *Due Week 15:* <!--deets-->
   Revisions to Data Driven Reporting
 
-  ### 15 | Week 15: Wrap Up
+  ### May 20 | Week 15: Wrap Up
   Discussion: closing thoughts  
   Fill out student evaluations
 
