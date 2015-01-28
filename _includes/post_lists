@@ -3,7 +3,7 @@
 <ul class="posts" id="assignments">
   <li><b>Assignment Details</b></li>
   {% for post in site.categories.assignments %}
-    <li><a href="/fundamentals-of-interactive{{ post.url }}">&raquo; {{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
@@ -12,7 +12,7 @@
 <ul class="posts" id="handson">
   <li><b>Hands On Exercises</b></li>
   {% for post in site.categories.hands-on %}
-    <li><a href="/fundamentals-of-interactive{{ post.url }}">&raquo; {{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
