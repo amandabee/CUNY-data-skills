@@ -21,7 +21,7 @@ We'll look at the data that helps us *listen* to audiences -- who are they and w
 
 We'll use Excel (or LibreOffice's Calc) and some command-line tools like CSVkit to dig into numbers and we'll use web-based tools such as CartoDB and HighCharts to create maps and charts that clearly illustrate your findings. You'll pick up a little HTML, CSS and jQuery along the way -- just enough to show off your work online. This is not a course in coding, but programmers of all skill levels are welcome.
 
-Note: this class will go deep on some data analysis tools, such as spreadsheets, that students will be expected to master. We will aslo introduce more complex advanced tools that students won't master in a semester. 
+Note: this class will go deep on some data analysis tools, such as spreadsheets, that you will be expected to master. We will aslo introduce more complex advanced tools that you won't master in a semester. 
 
 ## SYLLABUS in BRIEF
 
