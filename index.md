@@ -7,8 +7,9 @@ categories : [syllabus]
 ---
 {% include JB/setup %}
 
-| Amanda Hickman  | <amanda.hickman@journalism.cuny.edu>  |
+| Room 438 | Wednesdays, 2:30 - 5:30 |
 |---|---|
+| Amanda Hickman  | <amanda.hickman@journalism.cuny.edu>  |
 |  Tumblr:       | <http://dataskills.tumblr.com> | 
 | Class Wiki:    | <https://github.com/amandabee/CUNY-data-skills/wiki> |
 
