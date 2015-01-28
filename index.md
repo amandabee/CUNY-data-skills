@@ -1,13 +1,14 @@
 ---
 layout : page
-title : Syllabus--Data Skills
+title : Syllabus, Data Skills
 tagline : Social Journalism Spring 2015
 categories : [syllabus]
 
 ---
 {% include JB/setup %}
 
-# Syllabus: Data Skills 
+|  Tumblr: <http://dataskills.tumblr.com> | 
+| Class Wiki: <https://github.com/amandabee/CUNY-data-skills/wiki> |
 
 It isn't hypberbole: journalists today have access to more data than ever before, as well as to better tools to understand that data and retell the stories it holds. Whether you want to understand your own audience better, measure the impact of efforts to expand your reach, or just tell stories about the impact of policy, a little bit of data can go a long way, *if* you have the skills to put data to use.  
 
