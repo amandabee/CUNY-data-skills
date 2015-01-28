@@ -46,10 +46,10 @@ Lecture: what you can expect from me | Homework: what I expect from you    |
 **May 20**: Wrap Up                              | Revisions Data Driven                |
 
 
-| Project              | Pitch  | Storyboard | Draft   | Final   | Revision | 
-|----------------------|--------|------------|---------|---------|----------|
-| Community Profile    | Week 3 | Week 5     | Week 9  | Week 10 | Week 14  |
-| Data Driven Story    | Week 6 | Week 8     | Week 12 | Week 13 | Week 15  |
+| Project              | Pitch  | Storyboard | Draft   | Final  | Revision| 
+|----------------------|--------|------------|---------|--------|---------|
+| Community Profile    | Feb 11 | Mar 04     | Apr 01  | Apr 15 | May 13  |
+| Data Driven Story    | Mar 11 | Mar 25     | Apr 29  | May 06 | May 20  |
  
 
 **Course outcomes**  
