@@ -112,26 +112,30 @@ Participation and attendance are required and are important to your success in t
 
 Please be on time for class and back to class from breaks.     
  
- ## Grading
+## Grading
 
  Your grade is determined by three factors: active participation in class, homework assignments, and the two major team assignments. 
-
- > Participation : 20%  
- > Homework assignments: 20%  
- > Community Profile: 30%  
- > Data Driven Story: 30%
+ 
+| Course Grade Overall |       | 
+|---|---|
+| Participation        |  20%  |   
+| Homework assignments |  20%  |
+| Community Profile    |  30%  |
+| Data Driven Story    |  30%  |
 
  Grades for your two team assignments are further broken down as follows:
 
- > Pitch (25%)  
- > Storyboard (12.5%)  
- > Draft (25%)  
- > Final (25%)  
- > Revision (12.5%)
+| Assignment Grades | |
+|---|---|
+| Pitch        |  25%  |   
+| Storyboard   |  15%  |   
+|  Draft       |  25%  |   
+| Final        |  25%  |   
+| Revision     |  10%  |   
 
- This means that if you complete a brilliant story or profile but don't put real effort into your pitch or rough draft, you can't get better than a C on the story.
+This means that if you complete a brilliant story or profile but don't put real effort into your pitch or rough draft, you can't get better than a C on the story.
 
- **Pitches:** A complete pitch should tell us who cares, why we care now, and what pre-reporting you’ve done. <a id="pitch"></a>You must include:
+ **Pitches:** <a id="pitch"></a> A complete pitch should tell me who cares, why we care now, and what pre-reporting you’ve done. You must include:
 
  + a proposed title or headline  
  + a story slug -- up to three words that capture the essence of your story
@@ -159,7 +163,7 @@ Please be on time for class and back to class from breaks.
 
  **Final Story:** <a id="finalstory"></a>Your story must be uploaded to digital storage. Post an excerpt and a link to the class blog.  
 
- ## Plagiarism and Copyright
+## Plagiarism and Copyright
 
  It is a serious ethical violation to take any material created by another person and represent it as your own original work. Any such plagiarism will result in serious disciplinary action, possibly including dismissal from the CUNY J-School. *Plagiarism* may involve copying text from a book or magazine without attributing the source, or lifting words, code, photographs, videos, or other materials from the Internet and attempting to pass them off as your own. Please ask the instructor if you have any questions about how to distinguish between acceptable research and plagiarism.
 
@@ -175,7 +179,7 @@ Please be on time for class and back to class from breaks.
 
  When in doubt: ask.   
 
- # SYLLABUS in DETAIL <a id="detail"></a>
+# SYLLABUS in DETAIL <a id="detail"></a>
 
  **Festival of Data:** Every week one student will choose a data driven story to present in class. Prepare to discuss the strengths and weaknesses of the story, the authors’ use of data as well as their use of interactivity, and to identify the underlying technology. Blog your story in the "Festival of Data" category by 5 PM on your week.
 
@@ -188,7 +192,7 @@ Please be on time for class and back to class from breaks.
  *Due Week 01:*  <!--deets-->
  Read: [Searches for "sundown" on Yom Kippur](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/13/this-is-an-awesome-chart-about-yom-kippur-really/), [Homicide Watch intervew](http://contentsmagazine.com/articles/homicide-watch-an-interview/), [Homicide Watch on Search Queries](http://www.poynter.org/latest-news/mediawire/149294/homicide-watch-d-c-uses-clues-in-site-search-queries-to-id-homicide-victim/)
 
- ### Jan 28 | Week 01: Defining and Finding Data  
+### Jan 28 | Week 01: Defining and Finding Data  
  Discussion: Welcome and Expectations  
  What is data, what are data stories? 
  How does data provide context? What can't data answer?
@@ -205,7 +209,7 @@ Please be on time for class and back to class from breaks.
 
  Read [The Perils of Polling Twitter](https://source.opennews.org/en-US/learning/perils-polling-twitter/)
 
- ### Feb 04 | Week 02: Visual Encoding, CSVs, Pivot Tables  
+### Feb 04 | Week 02: Visual Encoding, CSVs, Pivot Tables  
  Discuss homework: Problems, challenges, solutions  
  Discuss: Visual Encoding, Story expectations  
  Hands-on: Tabula and Pivot Tables    
@@ -213,7 +217,7 @@ Please be on time for class and back to class from breaks.
  *Due Week 03:*  <!--deets-->
  Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) and [Filezilla](https://filezilla-project.org/) are installed on your computer.
 
- ### Feb 11 | Week 03: Cleaning data, SFTP, Pitch  
+### Feb 11 | Week 03: Cleaning data, SFTP, Pitch  
  Hands-on: Basic HTML and moving files with SFTP
  Hands-on: Cleaning data with OpenRefine
  Workshop Community Profile pitches: are these the right data points to consider? What else would you wan to know to understand this community? 
@@ -221,10 +225,10 @@ Please be on time for class and back to class from breaks.
  *Due Week 04 :*  <!--deets-->  
  Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
 
- ### Feb 18
+### Feb 18 | No Class
  No class. CUNY will meet on a Monday schedule.
 
- ### Feb 25 | Week 04: Mapping  
+### Feb 25 | Week 04: Mapping  
  Discussion: Asking good questions
  Discussion: Limitations of maps, impact of mapping choices
  Hands-on: CartoDB, PostGIS
@@ -239,77 +243,77 @@ Please be on time for class and back to class from breaks.
 
  *Due Week 06 :*  <!--deets-->
  Storyboard (Community); Mapping Exercise #2; 
-  
 
-  ### Mar 11 | Week 06: Charting, Pitch (Data Driven Story)  
-  Discussion: Pitches, Visual Encoding
-  Hands-on: Making charts
-  Workshop Data driven story pitches: is this interesting? Is this the right angle? What would make this story something you'd like to read?
 
-  *Due Week 07:*  <!--deets-->
-  HighCharts exercise, 
-  Read Cairo: The Functional Art, Reading part 3: pages 73-86, on presentation;
+### Mar 11 | Week 06: Charting, Pitch (Data Driven Story)  
+ Discussion: Pitches, Visual Encoding  
+ Hands-on: Making charts  
+ Workshop Data driven story pitches: is this interesting? Is this the right angle? What would make this story something you'd like to read?
 
-  ### Mar 18 | Week 07: Presentation, Navigation  
-  Hands-on: Using Bootstrap templates
-  Hands-on: Putting a Highcharts function in an HTML page  
+ *Due Week 07:*  <!--deets-->
+ HighCharts exercise, 
+ Read Cairo: The Functional Art, Reading part 3: pages 73-86, on presentation;
 
-  *Due Week 08:*  <!--deets-->
-  Highcharts exercise 2, Storyboard (data driven)
-  Read selections from Tufte, Quantitative Display of Information, on e-reserve in the Library: pages 91-105, 176-190.
+### Mar 18 | Week 07: Presentation, Navigation  
+ Hands-on: Using Bootstrap templates
+ Hands-on: Putting a Highcharts function in an HTML page  
 
-  ### Mar 25 | Week 08: Completeness, HighCharts API  
-  Hands-on: Highcharts API
-  Hands-on: Redesign exercise
+*Due Week 08:*  <!--deets-->
+Highcharts exercise 2, Storyboard (data driven)
+Read selections from Tufte, Quantitative Display of Information, on e-reserve in the Library: pages 91-105, 176-190.
 
-  *Due Week 09:*  <!--deets-->
-  Rough Draft (community)
+### Mar 25 | Week 08: Completeness, HighCharts API  
+Hands-on: Highcharts API
+Hands-on: Redesign exercise
 
-  ### Apr 01 | Week 09: Forms and Surveys
-  Discussion: Polls, samples and surveys
-  Writing questions people will answer, getting data into and out of a data store
+*Due Week 09:*  <!--deets-->
+Rough Draft (community)
 
-  *Due Week 10:*  <!--deets-->
-  Final Story (Community), Survey excercise
+### Apr 01 | Week 09: Forms and Surveys
+Discussion: Polls, samples and surveys
+Writing questions people will answer, getting data into and out of a data store
+
+*Due Week 10:*  <!--deets-->
+Final Story (Community), Survey excercise
 
 ### April 8
 No class. Spring break.
 
-  ### Apr 15 | Week 10: Community Study Critique
-  Workshop: Surveys -- too many questions? Too few? Would you answer these? 
-  Workshop: Community Study  
+### Apr 15 | Week 10: Community Study Critique
+Workshop: Surveys -- too many questions? Too few? Would you answer these? 
+Workshop: Community Study  
 
-  *Due Week 11:*  <!--deets-->
-  Revised survey exercise, install CSVkit
+*Due Week 11:*  <!--deets-->
+Revised survey exercise, install CSVkit
 
-  ### Apr 22 | Week 11: CSVkit and Command Line Tools
-  Hands-on: Regular Expressions and CSVkit to work with big text files
+### Apr 22 | Week 11: CSVkit and Command Line Tools
+Hands-on: Regular Expressions and CSVkit to work with big text files
 
 
-  *Due Week 12:*  <!--deets-->
-  Rough Draft (data driven story), install MySQL query browser
-  -
-  ### Apr 29 | Week 12: Command Line Tools  
-  Hands-on: Regular Expressions and CSVkit
+*Due Week 12:*  <!--deets-->
+Rough Draft (data driven story), install MySQL query browser
+-
+### Apr 29 | Week 12: Command Line Tools  
+Hands-on: Regular Expressions and CSVkit
 
-  *Due Week 13:* <!--deets-->
-  CSVkit exercise, Final story (data driven)
+*Due Week 13:* <!--deets-->
+CSVkit exercise, Final story (data driven)
 
-  ### May 06 | Week 13: Infographics  
-  Discussion: infographics for print and web
-  Hands on: infographic redesign
+### May 06 | Week 13: Infographics  
+Discussion: infographics for print and web
+Hands on: infographic redesign
 
-  *Due Week 14:*  <!--deets-->
-  Revisions to Community Study
-  Infographic exercise
+*Due Week 14:*  <!--deets-->
+Revisions to Community Study
+Infographic exercise
 
-  ### May 13 | Week 14: Story 2 crit, Hands on TBD  
-  Hands on: we'll take stock of how much we've learned and either go deeper on a tool you'd like more of, or tackle a new tool.  
+### May 13 | Week 14: Story 2 crit, Hands on TBD  
+Hands on: we'll take stock of how much we've learned and either go deeper on a tool you'd like more of, or tackle a new tool.  
 
-  *Due Week 15:* <!--deets-->
-  Revisions to Data Driven Reporting
+*Due Week 15:* <!--deets-->
+Revisions to Data Driven Reporting
 
-  ### May 20 | Week 15: Wrap Up
-  Discussion: closing thoughts  
-  Fill out student evaluations
+### May 20 | Week 15: Wrap Up
+Discussion: closing thoughts  
+Fill out student evaluations
 
