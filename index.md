@@ -46,6 +46,12 @@ Lecture: what you can expect from me | Homework: what I expect from you    |
 **May 20**: Wrap Up                              | Revisions Data Driven                |
 
 
+| Project              | Pitch  | Storyboard | Draft   | Final   | Revision | 
+|----------------------|--------|------------|---------|---------|----------|
+| Community Profile    | Week 3 | Week 5     | Week 9  | Week 10 | Week 14  |
+| Data Driven Story    | Week 6 | Week 8     | Week 12 | Week 13 | Week 15  |
+ 
+
 **Course outcomes**  
 This semester you'll learn to:
 
@@ -105,6 +111,9 @@ Your final product will be a short report that describes the community in number
 Just how many hospitals have closed in New York State in the last two years? Where were they and who was impacted? Do low-income New Yorkers have better access to fresh produce than they did ten years ago? Can they walk to green markets? Where are the most dangerous intersections in New York City? How many of them are near schools? These are all examples of questions we can answer with data that is already accessible to the public. 
 
 For the data driven story, students will work in pairs to identify newsworthy data, pitch and report a story of no more than 600 words that includes at least two visualizations of that data. The story should have news value and the reporters should demonstrate a clear understanding of the data and its limitations. Students should speak with as many experts as necessary to write responsibly about these numbers. 
+
+|
+
 
 ## Absences and Tardiness
 
