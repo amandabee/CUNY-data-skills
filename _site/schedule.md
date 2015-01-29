@@ -1,6 +1,6 @@
-Monday Evenings: Info Gathering and Reporting
+Monday Evenings: Info Gathering and Reporting  
 
-Wednesday Afternoon: Data Skills
-Wednesday Evenings: Social Media 
+Wednesday Afternoon: Data Skills  
+Wednesday Evenings: Social Media   
 
-Community Engagement: TK
+Community Engagement: TK  
