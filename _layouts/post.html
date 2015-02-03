@@ -35,7 +35,7 @@ layout: default
     <hr>
     <ul class="pagination">
     {% if page.previous %}
-      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+      <li class="prev"><a href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
     {% else %}
       <li class="prev disabled"><a>&larr; Previous</a></li>
     {% endif %}
