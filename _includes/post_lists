@@ -17,3 +17,13 @@
 </ul>
 
 <br />
+
+
+<ul class="posts" id="handson">
+  <li><b>Good Advice</b></li>
+  {% for post in site.categories.advice %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<br />
