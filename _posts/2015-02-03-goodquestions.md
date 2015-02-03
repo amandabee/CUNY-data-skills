@@ -14,6 +14,7 @@ Questions like this are pretty hard to answer:
 
 > I've been trying for the past couple of hours to figure out what exactly I'm doing wrong with the high charts assignment, and I think the problem is that my data from excel that I created using a pivot table is organized wrong. Attached here is the spreadsheet, I'm fairly sure this is what the problem stems from.
 
+or
 
 > I want to start putting together my slideshow, but the SlideDeck plug-in doesn't seem to be working on my WordPress. Do you know why?
 
@@ -57,15 +58,10 @@ Office hours, obviously, but also:
 *   [Hacks/Hackers][2] is a great community, though they're not currently accepting new registrations on their "help" site. 
 *	Join the [Hacks/Hackers meetup](http://meetupnyc.hackshackers.com/). Go forth and network.  
 *   [Stack Overflow][3] is an excellent place to ask specific programming questions, but expect a lot of huffing and puffing if you aren't following the advice here about how to ask good questions (or Stack Overflow's own [excellent post on the same](https://stackoverflow.com/help/how-to-ask).
-* 	Tweet questions. Tag them #cunyjdata 
+* 	Tweet questions. Tag them #dataskills
 * 	Join [gis.stackoverflow.com](http://gis.stackoverflow.com) – that is where you're going to get help for any CartoDB question.
-*	On campus, have free access to an incredible wealth of instructional videos from Lynda.com -- visit [iplogin.lynda.com]
-(http://iplogin.lynda.com) to connect.  Detailed instructions on getting setup at  <http://tech.journalism.cuny.edu/documentation/accessing-lynda/>.
+*	On campus, have free access to an incredible wealth of instructional videos from Lynda.com -- visit [iplogin.lynda.com](http://iplogin.lynda.com) to connect.  Detailed instructions on getting setup at  <http://tech.journalism.cuny.edu/documentation/accessing-lynda/>.
 
-
-
-
- 
 [1]: http://www.ire.org/resource-center/listservs/subscribe-nicar-l/
  [2]: http://help.hackshackers.com
  [3]: http://stackoverflow.com
