@@ -214,7 +214,7 @@ This means that if you complete a brilliant story or profile but don't put real 
 
  Make sure that [Firefox](https://www.mozilla.org/en-US/firefox/new/) is installed on your computer, with the [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/). Install [Tabula](http://tabula.nerdpower.org/), Create an Academy account with CartoDB -- start from <http://cartodb.com/academic> to get the education discount. You will not be able to do the necessary work in this class without an "Academy" CartoDB plan.  
 
- Read Cairo: The Functional Art, Reading part 1: pages 25-31, 36-44, on thinking through a visualization as a tool for the reader; what graphical form best serves the goal? On e-reserve in the Library
+ Read Cairo: _The Functional Art_ , Reading part 1: pages 25-31, 36-44, on thinking through a visualization as a tool for the reader; what graphical form best serves the goal? On e-reserve in the Library
 
  Read [The Perils of Polling Twitter](https://source.opennews.org/en-US/learning/perils-polling-twitter/)
 
