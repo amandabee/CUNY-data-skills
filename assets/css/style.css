@@ -224,7 +224,7 @@ li:before {
     margin-right: 4px;
 }
 
-header li:before {
+header li:before, .tag_box.inline li:before {
   content: "";
 }
 
