@@ -224,7 +224,7 @@ This means that if you complete a brilliant story or profile but don't put real 
  Hands-on: Tabula and Pivot Tables    
 
  *Due Week 03:*  <!--deets-->
- Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) and [Filezilla](https://filezilla-project.org/) are installed on your computer.
+ Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) is  installed on your computer.
 
 ### Feb 11 | Week 03: Cleaning data, SFTP, Pitch  
  Hands-on: Basic HTML and moving files with SFTP
@@ -242,13 +242,13 @@ This means that if you complete a brilliant story or profile but don't put real 
  Discussion: Limitations of maps, impact of mapping choices
  Hands-on: CartoDB, PostGIS
 
- *Due Week 05:*  <!--deets-->
- Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
+*Due Week 05:*  <!--deets-->
+Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
 
- ### Mar 04 | Week 05: Finding patterns in geospatial data
- Discussion: Review Maps, Maps as Research
- Hands-on: Troubleshooting map exercise;
- If we get there: Advanced GIS queries
+### Mar 04 | Week 05: Finding patterns in geospatial data
+Discussion: Review Maps, Maps as Research
+Hands-on: Troubleshooting map exercise;
+If we get there: Advanced GIS queries
 
  *Due Week 06 :*  <!--deets-->
  Storyboard (Community); Mapping Exercise #2; 
