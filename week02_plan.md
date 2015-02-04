@@ -18,6 +18,11 @@ In groups of four, let's outline at least two communities you'd want to profile 
 
 ### Tabula
 
+Tabula is a product of the [Open News](http://opennews.org/what/fellowships/) fellowship, which is pretty good stuff. 
+
+Use Deron's Pew study. 
+
+If the upload fails, go home, and then click on it. It's often there. 
 
 ### Publishing
 
