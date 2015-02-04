@@ -26,7 +26,12 @@ So what have they been up to?
 
 ## Education Outcomes
 
-Download from <https://data.cityofnewyork.us/Education/Graduation-Outcomes-Classes-Of-2005-2010-By-Boroug/avir-tzek>
+Download [2005-2010 Graduation Outcomes Data](https://data.cityofnewyork.us/Education/Graduation-Outcomes-Classes-Of-2005-2010-By-Boroug/avir-tzek)
+
+Pivot, use Boroughs as row labels, Demographic as column labels, % of cohort as the Value. 
+Play around. Add "Cohort" as a row label. 
+
+In groups of 3, what's interesting about this data? What would you like to chart. How could you pivot to get to what you want to chart?
 
 ## Flu Trends
 
