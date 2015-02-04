@@ -22,7 +22,7 @@ There are a lot of different ways to convert JSON to CSV. [This is one.](https:/
 
 So what have they been up to? 
 
-+ Add the dates as a column label, and then right click on **row 3** of the pivot table itself to `group` by `Month`.
++ Add the dates as a column label, and then right click on **row 4** of the pivot table itself to `group` by `Month`.
 
 ## Education Outcomes
 
