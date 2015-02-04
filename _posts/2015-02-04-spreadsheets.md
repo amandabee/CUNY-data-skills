@@ -39,12 +39,12 @@ Google tracks searches for flu-related terms. Start at <http://www.google.org/fl
 
 Open it in a spreadsheet. Use `Data > Text to Columns` to break it up if it isn't already broken up. Hint: it is "comma delimited" 
 
-1 In which week did which country have the most flu searches?  
++ In which week did which country have the most flu searches?  
 	`=Max()`  
 	`=Match(criterion, range, 0)`  
 	`=Indirect(“A”&cell)` to get date or re-order columns
-1 How much more did that country search for flu in that week than average?
-1 Order the countries by most flu searches (SUM...choose arbitrary 2012-13 to capture searches from all countries, Transpose countries-values to make a quick bar chart)
++ How much more did that country search for flu in that week than average?
++ Order the countries by most flu searches (SUM...choose arbitrary 2012-13 to capture searches from all countries, Transpose countries-values to make a quick bar chart)
 
 ## Noise Complaints by CD
 
