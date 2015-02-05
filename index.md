@@ -30,26 +30,25 @@ Lecture: what you can expect from me | Homework: what I expect from you    |
 **Jan 28**: Finding and defining data, Context   | Readings                             | 
 **Feb 04**: Visual Encoding, CSVs, Pivot Tables  | Pre-pitches -- data you're interested in            |
 **Feb 11**: Cleaning data with OpenRefine, FTP   | Spreadsheet exercise, <br />Pitch (community profile)   |
-**Feb 18:** Monday Schedule | |
-**Feb 25**: Mapping                              | Data cleaning exercise               |
-**Mar 04**: Finding patterns with maps           | Map exercise, <br />Storyboard (community profile)  |
-**Mar 11**: Charts, Visual Encoding              | Map exercise 2, <br /> Pitch (data driven story)   |
-**Mar 18**: Presentation, Navigation, Bootstrap  | Chart exercise                  |
-**Mar 25**: Completeness, Advanced Chart Layout  | Chart exercise 2, <br />Storyboard (data driven story)|
-**Apr 01**: Building forms, Writing surveys      | Rough Draft (community profile)      |
+**Feb 18**: Mapping                              | Data cleaning exercise               |
+**Feb 25**: Finding patterns with maps           | Map exercise, <br />Storyboard (community profile)  |
+**Mar 04**: Charts, Visual Encoding              | Map exercise 2, <br /> Pitch (data driven story)   |
+**Mar 11**: Presentation, Navigation, Bootstrap  | Chart exercise                  |
+**Mar 18**: Completeness, Advanced Chart Layout  | Chart exercise 2, <br />Storyboard (data driven story)|
+**Mar 25**: Building forms, Writing surveys      | Rough Draft (community profile)      |
+**Apr 01**: Community Study critique             | Survey exercise, Final  (community profile)  |
 **Apr 08**: Spring Break |  |
-**Apr 15**: Community Study critique             | Survey exercise, Final  (community profile)  |
-**Apr 22**: Command line tools, CSVkit           | Revised survey exercise, install CSVkit              |
-**Apr 29**: Show your work, publishing numbers   | Rough Draft (data driven story)      |
-**May 06**: Hands on TBD                         | CSVkit Excercise, Final (data driven story)  |
-**May 13**: Data Driven Crit, Hands on TBD       | Revisions Community Study            |
-**May 20**: Wrap Up                              | Revisions Data Driven                |
+**Apr 15**: Command line tools, CSVkit           | Revised survey exercise, install CSVkit              |
+**Apr 22**: Show your work, publishing numbers   | Rough Draft (data driven story)      |
+**Apr 29**: Hands on TBD                         | CSVkit Excercise, Final (data driven story)  |
+**May 06**: Data Driven Crit, Hands on TBD       | Revisions Community Study            |
+**May 13**: Wrap Up                              | Revisions Data Driven                |
 
 
 | Project              | Pitch  | Storyboard | Draft   | Final  | Revision| 
 |----------------------|--------|------------|---------|--------|---------|
-| Community Profile    | Feb 11 | Mar 04     | Apr 01  | Apr 15 | May 13  |
-| Data Driven Story    | Mar 11 | Mar 25     | Apr 29  | May 06 | May 20  |
+| Community Profile    | Feb 11 | Feb 25     | Mar 25  | Apr 01 | May 06  |
+| Data Driven Story    | Mar 04 | Mar 18     | Apr 22  | Apr 29 | May 13  |
  
 
 **Course outcomes**  
@@ -234,10 +233,8 @@ This means that if you complete a brilliant story or profile but don't put real 
  *Due Week 04 :*  <!--deets-->  
  Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
 
-### Feb 18 | No Class
- No class. CUNY will meet on a Monday schedule.
-
-### Feb 25 | Week 04: Mapping  
+### Feb 18 | Week 04: Mapping  
+**NOTE:** CUNY academic calendar has us on a Monday schedule Feb 18.
  Discussion: Asking good questions
  Discussion: Limitations of maps, impact of mapping choices
  Hands-on: CartoDB, PostGIS
@@ -245,7 +242,7 @@ This means that if you complete a brilliant story or profile but don't put real 
 *Due Week 05:*  <!--deets-->
 Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
 
-### Mar 04 | Week 05: Finding patterns in geospatial data
+### Feb 25 | Week 05: Finding patterns in geospatial data
 Discussion: Review Maps, Maps as Research
 Hands-on: Troubleshooting map exercise;
 If we get there: Advanced GIS queries
@@ -254,7 +251,7 @@ If we get there: Advanced GIS queries
  Storyboard (Community); Mapping Exercise #2; 
 
 
-### Mar 11 | Week 06: Charting, Pitch (Data Driven Story)  
+### Mar 04 | Week 06: Charting, Pitch (Data Driven Story)  
  Discussion: Pitches, Visual Encoding  
  Hands-on: Making charts  
  Workshop Data driven story pitches: is this interesting? Is this the right angle? What would make this story something you'd like to read?
@@ -263,7 +260,7 @@ If we get there: Advanced GIS queries
  HighCharts exercise, 
  Read Cairo: The Functional Art, Reading part 3: pages 73-86, on presentation;
 
-### Mar 18 | Week 07: Presentation, Navigation  
+### Mar 11 | Week 07: Presentation, Navigation  
  Hands-on: Using Bootstrap templates
  Hands-on: Putting a Highcharts function in an HTML page  
 
@@ -271,44 +268,44 @@ If we get there: Advanced GIS queries
 Highcharts exercise 2, Storyboard (data driven)
 Read selections from Tufte, Quantitative Display of Information, on e-reserve in the Library: pages 91-105, 176-190.
 
-### Mar 25 | Week 08: Completeness, HighCharts API  
+### Mar 18 | Week 08: Completeness, HighCharts API  
 Hands-on: Highcharts API
 Hands-on: Redesign exercise
 
 *Due Week 09:*  <!--deets-->
 Rough Draft (community)
 
-### Apr 01 | Week 09: Forms and Surveys
+### Mar 25 | Week 09: Forms and Surveys
 Discussion: Polls, samples and surveys
 Writing questions people will answer, getting data into and out of a data store
 
 *Due Week 10:*  <!--deets-->
 Final Story (Community), Survey excercise
 
-### April 8
-No class. Spring break.
-
-### Apr 15 | Week 10: Community Study Critique
+### Apr 01 | Week 10: Community Study Critique
 Workshop: Surveys -- too many questions? Too few? Would you answer these? 
 Workshop: Community Study  
 
 *Due Week 11:*  <!--deets-->
 Revised survey exercise, install CSVkit
 
-### Apr 22 | Week 11: CSVkit and Command Line Tools
+### Apr 08
+No class. Spring break.
+
+### Apr 15 | Week 11: CSVkit and Command Line Tools
 Hands-on: Regular Expressions and CSVkit to work with big text files
 
 
 *Due Week 12:*  <!--deets-->
 Rough Draft (data driven story), install MySQL query browser
 -
-### Apr 29 | Week 12: Command Line Tools  
+### Apr 22 | Week 12: Command Line Tools  
 Hands-on: Regular Expressions and CSVkit
 
 *Due Week 13:* <!--deets-->
 CSVkit exercise, Final story (data driven)
 
-### May 06 | Week 13: Infographics  
+### Apr 29 | Week 13: Infographics  
 Discussion: infographics for print and web
 Hands on: infographic redesign
 
@@ -316,13 +313,13 @@ Hands on: infographic redesign
 Revisions to Community Study
 Infographic exercise
 
-### May 13 | Week 14: Story 2 crit, Hands on TBD  
+### May 06 | Week 14: Story 2 crit, Hands on TBD  
 Hands on: we'll take stock of how much we've learned and either go deeper on a tool you'd like more of, or tackle a new tool.  
 
 *Due Week 15:* <!--deets-->
 Revisions to Data Driven Reporting
 
-### May 20 | Week 15: Wrap Up
+### May 13 | Week 15: Wrap Up
 Discussion: closing thoughts  
 Fill out student evaluations
 
