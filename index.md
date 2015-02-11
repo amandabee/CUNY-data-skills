@@ -74,7 +74,7 @@ The skills we build in this course will be as applicable to reporting as they ar
 
 ## About the Faculty
 
-**Amanda Hickman** works at the intersection of journalism and civic engagement, and especially values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
+**Amanda Hickman** works at the intersection of journalism and civic engagement, and especially values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School, the CUNY Graduate Center and CUNY Graduate School of Journalism.
 
 ## Software Requirements 
 
@@ -82,7 +82,6 @@ We'll be using a handfull of [free](https://fsf.org/) and open source software t
 
 * [Tabula](http://tabula.nerdpower.org/) allows you to extract structured data from PDFs
 * [Open Refine](http://openrefine.org/) is indispensable for cleaning messy data
-* CUNY recommends Fetch for FTP, but we're going to use [Filezilla](https://filezilla-project.org/) 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) is indispensible, as is the [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) add on. 
 * [Python](https://www.python.org/) ought to be installed on your computer already. We'll use it to install [CSVkit](http://csvkit.readthedocs.org/), a command-line tool that lets you investigate data in comma delimited text files. 
 * [Mou](http://mouapp.com/) is a handy cost-free OSX app that makes basic HTML markup easy, without tempting you to get fussy with layout. Linux users can get much of what Mou offers from [ReText](http://sourceforge.net/projects/retext/), which is free. 
@@ -222,22 +221,22 @@ This means that if you complete a brilliant story or profile but don't put real 
  Discuss: Visual Encoding, Story expectations  
  Hands-on: Tabula and Pivot Tables    
 
- *Due Week 03:*  <!--deets-->
- Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) is  installed on your computer.
+*Due Week 03:*  <!--deets-->
+Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) is  installed on your computer.
 
-### Feb 11 | Week 03: Cleaning data, SFTP, Pitch  
- Hands-on: Basic HTML and moving files with SFTP
- Hands-on: Cleaning data with OpenRefine
- Workshop Community Profile pitches: are these the right data points to consider? What else would you wan to know to understand this community? 
+### Feb 11 | Week 03: Cleaning data, Pitch (Community Profile)  
+ Hands-on: Basic HTML and working with Gists  
+ Hands-on: Cleaning data with OpenRefine  
+ Workshop Community Profile pitches: are these the right data points to consider? What else would you wan to know to understand this community?   
 
- *Due Week 04 :*  <!--deets-->  
- Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
+*Due Week 04 :*  <!--deets-->  
+Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
 
 ### Feb 18 | Week 04: Mapping  
-**NOTE:** CUNY academic calendar has us on a Monday schedule Feb 18.
- Discussion: Asking good questions
- Discussion: Limitations of maps, impact of mapping choices
- Hands-on: CartoDB, PostGIS
+**NOTE:** CUNY academic calendar has us on a Monday schedule Feb 18. We're meeting anyway.  
+ Discussion: Asking good questions  
+ Discussion: Limitations of maps, impact of mapping choices  
+ Hands-on: CartoDB, PostGIS  
 
 *Due Week 05:*  <!--deets-->
 Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
