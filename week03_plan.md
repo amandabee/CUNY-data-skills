@@ -1,4 +1,15 @@
   
+## HW Review
+
+* Context: if `3+ family dwelling` are making the most calls to 311, is that a little or a lot? What would we want to compare to? 
+  
+## Gists
+* How was that?
+
+<https://gist.github.com/amandabee/1f97f9639a1b7128559f> 
++ Basics of [Markdown](http://daringfireball.net/projects/markdown/syntax)
++ Viewing on [Blocks](http://bl.ocks.org/)
+
 ## Profile Pitches, in Pairs of Pairs
 
 Are these the right questions to ask?
