@@ -89,6 +89,9 @@ What do methods mean? [Learn](https://github.com/amandabee/cunyjdata/blob/master
 + [GeoCommons](http://geocommons.com/)
 + [CartoDB's Common Data](https://cunydata.cartodb.com/dashboard/common_data)
 + [Census.gov](https://www.census.gov/geo/maps-data/)
++ 
+
+[My List](https://github.com/amandabee/CUNY-SOJ-data-storytelling/wiki/Where-to-Find-Shapefiles)
 
 ### How to Geocode
 If you need to transform addresses into lat/lon pairs, you have a couple of options:
@@ -98,8 +101,11 @@ If you need to transform addresses into lat/lon pairs, you have a couple of opti
 + CartoDB gives you a bunch free and you can pay for more. 
 + More [suggestions](https://stackoverflow.com/questions/373383/geocoding-libraries)
 
-
-
-
-
 ## Storyboards
+
+* Putting images on imagur. 
+* Using http://placehold.it/
+* For now, delete the index.html, but add a "storyboard.md" file to your pitch. 
+* Watch your language. Think about talking to your family at Thanksgiving. You're authoratative, because you know this, but your goal is to share what you know. 
+
+
