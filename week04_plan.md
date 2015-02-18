@@ -18,13 +18,10 @@
 
 We don't deal with [projections](http://xkcd.com/977/) but they matter. 
 
-
-More notes
-http://maptime.io/lessons-resources/
+Cartography and GIS aren't the same thing. We're talking about very basic maps as visualizations here. [More on that](http://maptime.io/lessons-resources/)
 
 
 ## CartoDB
-# CartoDB BLS
 
 In 2011, the BLS published a [map of fatal workplace injuries](http://bls.gov/opub/btn/volume-2/death-on-the-job-fatal-work-injuries-in-2011.htm) by state. 
 
