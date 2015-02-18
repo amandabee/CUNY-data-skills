@@ -221,7 +221,7 @@ This means that if you complete a brilliant story or profile but don't put real 
  Discuss: Visual Encoding, Story expectations  
  Hands-on: Tabula and Pivot Tables    
 
-*Due Week 03:*  <!--deets-->
+*Due Week 03:*  
 Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http://openrefine.org/) is  installed on your computer.
 
 ### Feb 11 | Week 03: Cleaning data, Pitch (Community Profile)  
@@ -229,19 +229,20 @@ Spreadsheet exercise, Pitch your community profile, Make sure [Open Refine](http
  Hands-on: Cleaning data with OpenRefine  
  Workshop Community Profile pitches: are these the right data points to consider? What else would you wan to know to understand this community?   
 
-*Due Week 04 :*  <!--deets-->  
+*Due Week 04 :*  
 Open Refine exercise, make sure you have [TextWrangler](http://www.barebones.com/products/textwrangler/)  installed. [Map reading](http://vis4.net/blog/posts/choropleth-maps/) 
 
 ### Feb 18 | Week 04: Mapping  
 **NOTE:** CUNY academic calendar has us on a Monday schedule Feb 18. We're meeting anyway.  
  Discussion: Asking good questions  
  Discussion: Limitations of maps, impact of mapping choices  
- Hands-on: CartoDB, PostGIS  
+ Discussion: Storyboards
+ Hands-on: CartoDB, PostGIS, adding images to a gist  
 
-*Due Week 05:*  <!--deets-->
-Mapping exercise, Pitch 2, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
+*Due Week 05:*  
+Mapping exercise, Storyboards, Readings: Steele and Iliinsky, _Designing Data Visualizations_ Chapter 4: Choose Appropriate Visual Encodings (in Library); Cairo: _The Functional Art_, Reading part 2: pages 118-129, on Cleveland & McGill’s perceptual accuracy
 
-### Feb 25 | Week 05: Finding patterns in geospatial data
+### Feb 25 | Week 05: Finding patterns in geospatial data, Storyboard (Community Profile)
 Discussion: Review Maps, Maps as Research
 Hands-on: Troubleshooting map exercise;
 If we get there: Advanced GIS queries
