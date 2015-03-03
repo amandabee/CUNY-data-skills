@@ -1,3 +1,6 @@
+# Last Pass at Mapping
+
++ Number formats (`to_char`)
 + Framing stories
 
 What is the takeaway? Try some headlines. 
@@ -27,3 +30,21 @@ and
 Credit: G.W. Schulz
 
 What they don't say? "The photo above shows..." -- they do, however, tell us why we're looking at this picture. 
+
+# Visual Encoding
++ [catalog](http://www.datavizcatalogue.com/)
+
+What do you want to show; sketch it. 
+
+Change over time, concentration, buckets. Is this continuous?
+
+Think about some different ways we could chart deportations.  What are our axes? 
+
+
+# Homework
+As ever, I strongly encourage you to work with data you need to understand. 
+
+Identify one data set that you can chart and chart it. That's all. 
+
+
+
