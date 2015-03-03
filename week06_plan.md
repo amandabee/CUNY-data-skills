@@ -5,6 +5,9 @@ What is the takeaway? Try some headlines.
 [Kentucky's Quest to go 40-0](http://fivethirtyeight.com/datalab/rest-easy-bob-knight-kentucky-probably-wont-finish-undefeated/)
 > Probability the Windcats remain undefeated, assuming they play second day of each of first for NCAA tournament rounds
 
+[Flashbangs Thrown in Little Rock](https://www.propublica.org/article/flashbangs) 
+> It's difficult to find police departments that keep records of flashbang use. But we found that Little Rock, Ark., did note the damage done by flashbangs in SWAT team records obtained by the ACLU. Between 2011 and 2013, Little Rock police tossed flashbangs into homes on 84 percent of raids — nearly all of them in predominantly black neighborhoods.
+
 [Do you live in one of California's pesticide hotspots?](http://apps.cironline.org/pesticides/?zoom=11&latitude=34.200340270996094&longitude=-119.18012237548828&layer=concernchems&action=area) -- let's talk about how they frame this.
 
 [Stockpiling Vacation](http://www.revealnews.org/article/thousands-of-california-state-workers-are-hoarding-vacation-days/) -- I'm not sure the bubbles tell us much, but let's look a the framing. 
