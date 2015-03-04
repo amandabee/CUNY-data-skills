@@ -45,6 +45,7 @@ What they don't say? "The photo above shows..." -- they do, however, tell us why
 
 # Visual Encoding
 + [catalog](http://www.datavizcatalogue.com/)
++ [walk through](https://www.dropbox.com/s/z4krjav4qq6ber9/visual_encoding.xls?dl=0)
 
 What do you want to show; sketch it. 
 
