@@ -53,6 +53,9 @@ Change over time, concentration, buckets. Is this continuous?
 
 Think about some different ways we could chart deportations.  What are our axes? 
 
+## Charting:
++ Stick the [CSV in a gist](https://gist.github.com/amandabee/5b0cf270dfee2511a946#file-criminal_deportation-csv) and give the Raw URL to [charted](http://www.charted.co/?%7B%22dataUrl%22%3A%22https%3A%2F%2Fgist.githubusercontent.com%2Famandabee%2F5b0cf270dfee2511a946%2Fraw%2Fb6e3d84bbe73b5f5d6bc4a30cf42a2a2c26721c7%2Fcriminal_deportation.csv%22%2C%22color%22%3A%22dark%22%2C%22charts%22%3A%5B%7B%22type%22%3A%22line%22%7D%5D%7D). How do we need to reorganize the data? (Transpose!)
+
 
 # Homework
 As ever, I strongly encourage you to work with data you need to understand. 
