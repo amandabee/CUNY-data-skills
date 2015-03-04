@@ -257,7 +257,7 @@ If we get there: Advanced GIS queries
  Workshop Data driven story pitches: is this interesting? Is this the right angle? What would make this story something you'd like to read?
 
  *Due Week 07:*  <!--deets-->
- HighCharts exercise, 
+ Chart exercise, 
  Read Cairo: The Functional Art, Reading part 3: pages 73-86, on presentation;
 
 ### Mar 11 | Week 07: Presentation, Navigation  
@@ -265,10 +265,10 @@ If we get there: Advanced GIS queries
  Hands-on: Putting a Highcharts function in an HTML page  
 
 *Due Week 08:*  <!--deets-->
-Highcharts exercise 2, Storyboard (data driven)
+Chart exercise 2, Storyboard (data driven)  
 Read selections from Tufte, Quantitative Display of Information, on e-reserve in the Library: pages 91-105, 176-190.
 
-### Mar 18 | Week 08: Completeness, HighCharts API  
+### Mar 18 | Week 08: Completeness, Storyboard (Data Driven)
 Hands-on: Highcharts API
 Hands-on: Redesign exercise
 
@@ -298,7 +298,8 @@ Hands-on: Regular Expressions and CSVkit to work with big text files
 
 *Due Week 12:*  <!--deets-->
 Rough Draft (data driven story), install MySQL query browser
--
+
+
 ### Apr 22 | Week 12: Command Line Tools  
 Hands-on: Regular Expressions and CSVkit
 
