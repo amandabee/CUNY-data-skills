@@ -33,6 +33,14 @@ What they don't say? "The photo above shows..." -- they do, however, tell us why
 
 ## One more pass. Revise your Gist to add framing. Give it a meaningful title, and put the bl.ocks.org URL on the assignments doc. Let's look these over. 
 
+# Pitches
+
+- School Safety
+- Teacher Evals
+- Mental Illness/Criminal Justice
+- Prisoner HIV
+- 
+
 # Visual Encoding
 + [catalog](http://www.datavizcatalogue.com/)
 
