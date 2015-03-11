@@ -1,3 +1,10 @@
+Reading (Cairo 73-86)
+
++ don't let bells and whistles overshadow your point. Decide what your point is *first*
++ Clarify vs simplify
++ Don't make me work -- if I have to do the math myself, I'm working (eg. Good)
++ We theoretically read Cleveland and McGill for Week 4, but look back over it. We're looking for clarity, not immersive beauty. 
+
 
 Chart Assignment
 + What was hard?
