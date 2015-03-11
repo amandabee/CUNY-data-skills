@@ -4,6 +4,10 @@ Chart Assignment
 + thinking about framing and context
 + Making Better Charts
 
+Lecture
++ Why visualize <http://freegreentea.info/talks/2015/Ravitch/#/2>
++ Visualization Changes Stories, skip the maps, below them is more. And data is people. 
+
 Git
 
 + <https://try.github.io/>
