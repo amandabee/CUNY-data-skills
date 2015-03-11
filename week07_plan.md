@@ -1,3 +1,9 @@
+
+Chart Assignment
++ What was hard?
++ thinking about framing and context
++ Making Better Charts
+
 Git
 
 + <https://try.github.io/>
@@ -5,6 +11,8 @@ Git
 + <https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/>
 
 Bootstrap
+
+Use Git to clone your repository, make an HTML template, push it back up. 
 
 Charts
 
