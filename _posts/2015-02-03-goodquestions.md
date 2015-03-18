@@ -1,9 +1,9 @@
 ---
 title    : Good Questions
 layout   : post
-category : advice
+category : hands-on
 tagline  : Asking questions to get the asnwers you need.
-tags     : [week01, good questions]
+tags     : [week01, week08, good questions]
 ---
 
 # Asking Good Questions
@@ -33,11 +33,13 @@ or
 All I know is that you're using Slidedeck. Or Fusion Tables. I don't know what you've tried, I don't know what happens when you try it, I don't know what you thought was going to happen. I don't know what "glitch" I should be looking for. So I don't know enough to help you. A good question will include all of this:
 
 *   What steps will reproduce the problem?
+*   If you're working with code or data, I probably need to see your data to reproduce the problem! Put your code or data into a [gist](http://gist.github.com) or [pastebin](http://paste.debian.net/) and include a link with your question. 
 *   What is the expected output?
 *   What do you see instead?
 *   What version of the software are you using?
 *   If you're working with something online, like a WordPress Plugin, you also want to try it in at least two browsers and include the name and version of the browsers you've tried it in.
 *   For software that's installed on your computer, like MS Word and Photoshop, be sure to include your operating system. (not just “Mac” but Mac OSX Jaguar)
+
 
 Walk me through it, step by step. You're aiming for something like this:
 
@@ -52,6 +54,8 @@ Or perhaps...
 
 ## So where should you get help?
 
+You're always welcome to ask me for help, or to [ask Jue](https://github.com/jueyang/call-me-maybe). When you're stuck on a technical challenge ("Are we on the right track with our pitch?" is not a technical problem. "Why is chartbuilder only showing me half of a chart?" is a technical problem.) I want you to try opening [a new issue](https://github.com/amandabee/CUNY-data-skills/issues) to ask your question. It's good practice and I want us to be able to see the kinds of things we're all bumping up against. 
+
 Office hours, obviously, but also:
 
 *   [NICAR-L][1] is indispensable for connecting with other journalists who are doing innovative data and interactive reporting. Get on the list now. 
@@ -63,5 +67,5 @@ Office hours, obviously, but also:
 *	On campus, have free access to an incredible wealth of instructional videos from Lynda.com -- visit [iplogin.lynda.com](http://iplogin.lynda.com) to connect.  Detailed instructions on getting setup at  <http://tech.journalism.cuny.edu/documentation/accessing-lynda/>.
 
 [1]: http://www.ire.org/resource-center/listservs/subscribe-nicar-l/
- [2]: http://help.hackshackers.com
- [3]: http://stackoverflow.com
+[2]: http://help.hackshackers.com
+[3]: http://stackoverflow.com
