@@ -7,3 +7,7 @@ Make a google survey.
 Look at the results in a spreadsheet. 
 
 Think about how much you actually need to know. 
+
+
+# Inkscape
+http://wiki.inkscape.org/wiki/index.php/Tricks_and_tisp 
