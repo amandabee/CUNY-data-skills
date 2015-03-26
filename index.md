@@ -165,12 +165,12 @@ This means that if you complete a brilliant story or profile but don't put real 
  + Captions  
  + Credits  
  + A headline  
- + For your reporting piece: at least three links to other reporting that puts your story in a broader context.  
- + Introductory text that includes information gleaned from at least one human source.  
- + For your reporting piece: A source list
+ + At least three links to other reporting that puts your story in a broader context.  
+ + Introductory text (Your reported piece should include information gleaned from at least one human source.)
+ + A source list
 
 
- **Final Story:** <a id="finalstory"></a>Your story must be uploaded to digital storage. Post an excerpt and a link to the class blog.  
+ **Final Story:** <a id="finalstory"></a>Your story must be available online (most of you will be using gist/bl.ocks), and the URL added to the [assignments document](https://docs.google.com/a/journalism.cuny.edu/document/d/1kUg2EfTBZsK0HG5TAenIa68_d9B6Od6uO6B_BRch0SE/edit?usp=sharing)
 
 ## Plagiarism and Copyright
 
