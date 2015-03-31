@@ -272,7 +272,7 @@ ul {
     column-gap: 20px;
 }
 
-#assignments ul {
+ul#assignments {
     list-style-type: none;
     counter-reset: section;
 
