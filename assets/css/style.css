@@ -260,3 +260,39 @@ border:1px solid #4c964d;
 color:#FFF;
 }
 
+ul {
+    list-style-type: none;
+    counter-reset: section;
+
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+#assignments ul {
+    list-style-type: none;
+    counter-reset: section;
+
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+ul li {
+    padding-left: 0px;
+    position: relative;
+}
+
+ul li:before 
+{
+    display: inline-block;
+    position: absolute;
+    height: 100%;
+}
+
