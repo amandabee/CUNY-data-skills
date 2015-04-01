@@ -15,6 +15,8 @@ Name your repository "Community Profile".
 
 Normally, I'd tell you to check the box next to "Initialize this repository with a README" -- if you're starting from scratch, you definitely want to do that. But in this case, you're not starting from scratch. So instead, I want you to just go ahead and create.
 
+Then, look for the `import code` button. 
+
 ## Nothing is without compromises
 
 + You can choose to make a gist public or keep it private. Even with a free account. A github repository is always public unless you've paid money for (or they made a mess of your life and tried to make it better by giving you) a premium account.
