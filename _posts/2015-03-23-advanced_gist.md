@@ -46,7 +46,7 @@ Git's [branching](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-an
 
 You can choose to make a gist public or keep it private. Even with a free account. A github repository is always public unless you've paid money for (or they made a mess of your life and tried to make it better by giving you) a premium account.
 
-If you want to get fancy, the instructions below will help you use your private gist as a collaborative repository. 
+If you want to get fancy, the instructions below will get you halfway down the road to use your private gist as a collaborative repository. Once you get through the process of adding an image, [let me know](https://github.com/amandabee/CUNY-data-skills/issues) and I'll add instructions for the next step.
 
 # Using Git to Manage a Gist
 
