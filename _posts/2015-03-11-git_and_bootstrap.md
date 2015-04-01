@@ -1,30 +1,12 @@
 ---
-title     : Git and Bootstrap
+title     : Bootstrap
 layout    : post
 category  : hands-on
 tagline   : 
-tags      : [html, bootstrap, git]
+tags      : [html, bootstrap]
 
 ---
 
-
-# Git
-
-**Git** is a distributed version control system. You've been using it quietly for a while already. **[Github](http://github.com)** is a service that provides hosted, centralized git repositories. There are a lot of other services that do the same thing. A **gist** is github's term for what is effectively a mini repository. It doens't have all the bells and whistles of a full repository but it is a quick and easy way to get a document online. You can actually [do rather a lot](http://www.labnol.org/internet/github-gist-tutorial/28499/) with gists, including run them through <http://bl.ocks.org> to view them as HTML. 
-
-There are plenty of good git tutorials available. Here are three:
-
-+ <https://try.github.io/>
-+ <https://digitalfellows.commons.gc.cuny.edu/2015/03/10/intro-to-github-part-i/>
-+ <https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/>
-
-And Mike Bostock has written a great rundown on how to add binary files (like images) to gists. [Read it](http://bost.ocks.org/mike/block/) 
-
-I used
-
-    git clone git@gist.github.com:/5b0cf270dfee2511a946.git
-    
-to make a local copy of the gist at <https://gist.github.com/amandabee/5b0cf270dfee2511a946>. I had no trouble pushing my edits back up, using my password. If you want to *collaborate* on gists, you'll need keys, which is more complex than we're going to get today. 
 
 # Bootstrap
 
