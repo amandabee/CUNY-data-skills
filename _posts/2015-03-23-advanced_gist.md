@@ -3,10 +3,24 @@ title     : Gists (Advanced)
 layout    : post
 category  : hands-on
 tagline   : Getting fancy
-tags      : [week09, html, gists]
+tags      : [week09, week10, git, html, gists]
 
 ---
 
+# Your first repository.
+
+Head over to <https://github.com/> and look for a giant `+` in the upper right. You're going to `Create new > New repository`.
+
+Name your repository "Community Profile". 
+
+Normally, I'd tell you to check the box next to "Initialize this repository with a README" -- if you're starting from scratch, you definitely want to do that. But in this case, you're not starting from scratch. So instead, I want you to just go ahead and create.
+
+## Nothing is without compromises
+
++ You can choose to make a gist public or keep it private. Even with a free account. A github repository is always public unless you've paid money for (or they made a mess of your life and tried to make it better by giving you) a premium account.
+
+
+# Using Git to Manage a Gist
 
 If you're using Windows, I don't have a good solution for you. That doesn't mean one doesn't exist, just that I haven't tried it. 
 
