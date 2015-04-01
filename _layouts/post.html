@@ -34,7 +34,7 @@ layout: default
   
     <hr>
     <ul class="pagination">
-    BASE_PATH: {{ BASE_PATH }}<br />
+    BASE_PATH: {{ site.baseurl }}<br />
     Prev: {{ page.previous.url }}
     
     {% if page.previous %}
@@ -42,7 +42,7 @@ layout: default
     {% else %}
       <li class="prev disabled"><a>&larr; Previous</a></li>
     {% endif %}
-      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+     
     {% if page.next %}
       <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
     {% else %}
