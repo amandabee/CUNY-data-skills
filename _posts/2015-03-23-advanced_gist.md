@@ -17,10 +17,36 @@ Normally, I'd tell you to check the box next to "Initialize this repository with
 
 Then, look for the `import code` button. 
 
+Your gist is actually a mini repository, and you can clone it by looking for the `HTTPS clone URL` and pasting that in the URL field. You should either get an error, quickly, or some indication that github is importing your repository. If you get an error, [ask for help](https://github.com/amandabee/CUNY-data-skills/issues)!
+
+## `gh-pages` branch
+
+Once your gist repository is imported to your new "community profile" repository, you've got a few more things to tweak.
+Don't skip any steps. Trust me -- every one of the next steps is super important. If you get stuck or confused, [ask for help](https://github.com/amandabee/CUNY-data-skills/issues).
+
+On the "Branches" pulldown, create a branch called `gh-pages` -- you need that to be exact. As you type it in a "Create a branch" button will appear. Click it when you're done typing. That *should* copy all of your files to a new branch.
+
+Under `Settings` (on the right hand side) you're going to change your default branch to `gh-pages`. The default branch pulldown is right up at the top of your settings.
+
+Then, still in the `Settings` dialog, look for the `Collaborators` menu on the left. Find your partner's handle, and add them as a contributor on your community profile.
+
+Now you can stop and take a deep breath. You did it. 
+
+Once you've confirmed (and showed me!) that you can edit your partner's repository and they can edit yours, you should probably delete at least one of them. :)
+
+## Check out your project
+
+Anything on the `gh-pages` branch of a git repository *on github* is visible online at `https://{username}.github.io/{repository_name}`. Since my username is `amandabee`, my `CUNY-data-skills` repository is visible at <https://amandabee.github.io/CUNY-data-skills/>. Pretty cool, eh? 
+
+### What was that branching thing?
+
+Git's [branching](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) functionality is very powerful and way, way beyond the scope of what we're up to this semester. For now, all you really need to know is that Github's "pages" system will make any HTML on the `gh-pages` branch available through a webserver. One that updates immediately when you save to it. 
+
 ## Nothing is without compromises
 
-+ You can choose to make a gist public or keep it private. Even with a free account. A github repository is always public unless you've paid money for (or they made a mess of your life and tried to make it better by giving you) a premium account.
+You can choose to make a gist public or keep it private. Even with a free account. A github repository is always public unless you've paid money for (or they made a mess of your life and tried to make it better by giving you) a premium account.
 
+If you want to get fancy, the instructions below will help you use your private gist as a collaborative repository. 
 
 # Using Git to Manage a Gist
 
