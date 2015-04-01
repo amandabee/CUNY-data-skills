@@ -289,7 +289,7 @@ Workshop: Surveys -- too many questions? Too few? Would you answer these?
 Workshop: Community Study  
 
 *Due Week 11:*  <!--deets-->
-Revised survey exercise, [install CSVkit](), focus on your data driven story
+Revised survey exercise, [dabble in the command line](hands-on/csvkit.html), focus on your data driven story
 
 ### Apr 08
 No class. Spring break.
