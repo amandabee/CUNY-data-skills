@@ -1,5 +1,5 @@
 
-
+<div class="sidebar">
 <ul class="posts" id="assignments">
   <li><b>Assignment Details</b></li>
   {% for post in site.categories.assignments %}
@@ -25,5 +25,6 @@
     <li><a href="{{ site.baseurl }}{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
+</div><!-- /sidebar -->
 
 <br />
