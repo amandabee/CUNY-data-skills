@@ -289,7 +289,7 @@ Workshop: Surveys -- too many questions? Too few? Would you answer these?
 Workshop: Community Study  
 
 *Due Week 11:*  <!--deets-->
-Revised survey exercise, install CSVkit
+Revised survey exercise, [install CSVkit](), focus on your data driven story
 
 ### Apr 08
 No class. Spring break.
@@ -297,18 +297,16 @@ No class. Spring break.
 ### Apr 15 | Week 11: CSVkit and Command Line Tools
 Hands-on: Regular Expressions and CSVkit to work with big text files
 
-
 *Due Week 12:*  <!--deets-->
-Rough Draft (data driven story), install MySQL query browser
+Rough Draft (data driven story)
 
-
-### Apr 22 | Week 12: Command Line Tools  
+### Apr 22 | Week 12: Command Line Tools, Rough Draft (data driven story)
 Hands-on: Regular Expressions and CSVkit
 
 *Due Week 13:* <!--deets-->
 CSVkit exercise, Final story (data driven)
 
-### Apr 29 | Week 13: Infographics  
+### Apr 29 | Week 13: Infographics, Final story (data driven)  
 Discussion: infographics for print and web
 Hands on: infographic redesign
 
