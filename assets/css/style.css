@@ -289,7 +289,7 @@ ul li {
     position: relative;
 }
 
-.posts ul li:before 
+ul.posts li:before 
 {
     display: inline-block;
     position: absolute;
