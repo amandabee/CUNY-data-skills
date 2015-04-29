@@ -19,7 +19,7 @@ And one that doesn't: <http://dataskills.tumblr.com/post/103510348470>
 Let's do-over that last one. 
 
 ## Using a syntax checker
-Web developer toolbar or <http://validator.w3.org/> or <jigsaw.w3.org/css-validator/>
+Web developer toolbar or <http://validator.w3.org/> or <http://jigsaw.w3.org/css-validator/>
 
 ## Bootstrap and adding custom CSS
 
