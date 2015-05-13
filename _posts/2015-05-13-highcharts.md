@@ -8,7 +8,7 @@ tags     : [week15, charts]
 
 We didn't tackle [Highcharts](http://www.highcharts.com/demo/line-basic) this semester but we could have. One thing I like about Highcharts is that they have [great demos](http://www.highcharts.com/demo/line-basic) of their basic chart types, and their [API](http://api.highcharts.com/highcharts) is really nicely documented. 
 
-Their demos open in JS Fiddle, so you can play around with tweaking them without setting up your own environment. So: start by registering with [JS Fiddle](http://jsfiddle.net/) and logging in, so you can save your work. If you get stuck, [ask for help](https://github.com/amandabee/CUNY-data-skills/issues)
+Their demos open in JS Fiddle, so you can play around with tweaking them without setting up your own environment. So: start by registering with [JS Fiddle](http://jsfiddle.net/) and logging in, so you can save your work. If you get stuck, [ask for help](https://github.com/amandabee/CUNY-data-skills/issues).
 
 **Step One: get organized**. You're going to need a few windows open. You might want to close other windows so you can focus.
 
