@@ -3,7 +3,7 @@
 permalink: /:categories/:title.html 
 
 exclude: ["todo.md"]
-highlighter: pygments
+highlighter: rouge
 
 kramdown :
   input : GFM
