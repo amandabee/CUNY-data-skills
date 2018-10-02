@@ -17,7 +17,7 @@ There are a lot of different ways to convert JSON to CSV. [This is one.](https:/
 
 + Convert it to CSV
 + Open it in Excel
-+ [Pivot]({% post_url 2015-02-03-pivot.md %}) -- you probably *don't* want column A. 
++ Pivot -- you probably *don't* want column A. 
 + Use `features__properties__Activity` as Row Labels and a count of `features__properties__FID` for our Values
 
 What have they been up to? 
