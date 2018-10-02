@@ -17,12 +17,14 @@ There are a lot of different ways to convert JSON to CSV. [This is one.](https:/
 
 + Convert it to CSV
 + Open it in Excel
-+ [Pivot](pivot.html) -- you probably *don't* want column A. 
++ [Pivot]({% post_url 2015-02-03-pivot.md %}) -- you probably *don't* want column A. 
 + Use `features__properties__Activity` as Row Labels and a count of `features__properties__FID` for our Values
 
-So what have they been up to? 
+What have they been up to? 
 
 + Add the dates as a column label, and then right click on **row 4** of the pivot table itself to `group` by `Month`.
+
+If you need a [pivot tables]({% post-url 2015-02-03-pivot %}) refresher, check the tutorial. 
 
 ## Education Outcomes
 
