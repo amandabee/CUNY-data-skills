@@ -24,7 +24,7 @@ What have they been up to?
 
 + Add the dates as a column label, and then right click on **row 4** of the pivot table itself to `group` by `Month`.
 
-If you need a [pivot tables]({% post-url 2015-02-03-pivot %}) refresher, check the tutorial. 
+If you need a [pivot tables]({% site.url %}) refresher, check the tutorial. 
 
 ## Education Outcomes
 
