@@ -4,8 +4,9 @@ layout    : post
 category  : hands-on
 tagline   : Digging in
 tags      : [week02, spreadsheets]
-
 ---
+
+{% post_url 2015-02-04-spreadsheets %}
 
 I keep a running list of my favorite spreadsheet commands on the [cunyjdata wiki](https://github.com/amandabee/cunyjdata/wiki/Tip-Sheet:-Spreadsheets). That's a great resource. 
 
